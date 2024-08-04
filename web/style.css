@@ -37,7 +37,7 @@ p {
 
 #hex {
   position: absolute;
-  top: 51.1%;
+  top: 50.4%; /* IMPORTANT : 1920x1080 = 51.1%, 2k = 50.4% */
   left: 50%;
   transform: translateY(-50%) translateX(-50%);
   font-size: 6vh; /* Ajustez cette valeur pour modifier la taille du texte */

@@ -14,7 +14,7 @@ ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-
 # Previews
 
 - Normal Target
-![immage](https://i.imgur.com/3AoMvBW.png)
+![immage](image.png)
 
 - Target with Sprite
 ![image](https://i.imgur.com/VlJq7iv.png)
