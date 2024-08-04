@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+:root {
+  --color-default: #ffffff;
+  --color-hover: #ffffff;
+}
+
+body {
+  visibility: hidden;
+  user-select: none;
+  white-space: nowrap;
+  margin: 0;
+  user-select: none;
+  overflow: hidden;
+  font-family: 'Teko', sans-serif;
+}
+
+p {
+  margin: 0;
+  font-family: 'Teko', sans-serif;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 300, "GRAD" 0, "opsz" 40;
+  font-family: 'Teko', sans-serif;
+}
+
+#eye {
+  position: absolute;
+  font-size: 20px; /* Ajustez cette valeur pour modifier la taille de la lettre */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #5bb894; /* Change la couleur de la lettre */
+  font-family: 'Teko', sans-serif;
+}
+
+#hex {
+  position: absolute;
+  top: 51.1%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  font-size: 6vh; /* Ajustez cette valeur pour modifier la taille du texte */
+  width: 35px;  /* Ajustez cette valeur pour modifier la taille du carré */
+  height: 35px; /* Ajustez cette valeur pour modifier la taille du carré */
+  background-color: rgba(0, 73, 45, 0.548);
+  border: 2px solid #4e9478;
+  border-radius: 5px;
+  text-shadow: #ffffff00 1px 0 10px;
+  -webkit-text-stroke: 2px #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 100;
+  font-family: 'Teko', sans-serif;
+  position: relative;
+}
+
+
+#rectangle {
+  position: absolute;
+  bottom: -3px;  /* Ajustez cette valeur pour positionner le rectangle */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 15px;  /* Ajustez cette valeur pour modifier la largeur du rectangle */
+  height: 5px;  /* Ajustez cette valeur pour modifier la hauteur du rectangle */
+  background-color: #84ffd0;
+  border-radius: 2px;
+}
+
+#options-wrapper {
+  position: absolute;
+  top: calc(48.4%);
+  left: calc(50% + 18pt);
+}
+
+.option-container {
+  color: var(--color-default);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background: linear-gradient(
+    to bottom,
+    rgba(1, 48, 30, 0.479) 0%,
+    rgba(0, 73, 45, 0.384) 66%,
+    rgba(0, 61, 38, 0.438) 100%
+  );
+  border-radius: 3px;
+  font-size: 15pt;
+  line-height: 50pt;
+  font-family: 'Teko', sans-serif;
+  vertical-align: middle;
+  transition: 300ms;
+  transform-origin: left top;
+  scale: 1;
+  height: 35pt;
+  width: auto;
+  margin: 5pt;
+  margin-top: 6;
+  padding-right: 30px; /* Ajoutez du padding à droite pour correspondre à l'espace à gauche */
+  padding-left: 7px; /* Ajoutez du padding à droite pour correspondre à l'espace à gauche */
+}
+
+.option-container:hover {
+  background: #3a9471b7;
+  border-radius: 5px;
+  transform-origin: left top;
+  box-shadow: 0px 0px 15px 3px #84ffd0b4;
+  color: var(--color-default);
+  margin-left: 4pt;
+  font-family: 'Teko', sans-serif;
+}
+
+.option-icon {
+  font-size: 15pt;
+  line-height: 22pt;
+  width: 14pt;
+  padding-right: 3.5px;
+  color: #84ffd0;
+  font-family: 'Teko', sans-serif;
+}
+
+.option-label {
+  font-weight: 500;
+  font-family: 'Teko', sans-serif;
+}
