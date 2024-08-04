@@ -14,17 +14,14 @@ ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-
 # ox_target redisigned inspired GrandLine RP
 
 - Normal Target
-<<<<<<< HEAD
-![immage](image.png)
-=======
-![immage](https://github.com/user-attachments/assets/e12b132d-549b-4223-8f05-4a9766e75068)
->>>>>>> 2cef85b28a90f8d7c2425a90901cfbeeaad06587
+![image](https://github.com/user-attachments/assets/5b5c5267-f38b-40bb-a008-07027c4b97b4)
 
 - Target with Sprite
-![image](https://github.com/user-attachments/assets/aee17cf3-10c2-4716-ab8f-3c61857effab)
+![image](https://github.com/user-attachments/assets/7359add3-a0ab-47c6-992c-ca3e555e662b)
 
 - Target on Object
-![image](https://github.com/user-attachments/assets/d91ab6f2-a68f-4fbd-828f-845065a423ab)
+![image](https://github.com/user-attachments/assets/72f17743-5339-4a16-a666-4c839c7afeec)
 
 - Target on Object Selected
-![image](https://github.com/user-attachments/assets/5415a8bd-84c9-4c99-9795-394966ceef9f)
+![image](https://github.com/user-attachments/assets/02ef3a17-cace-4c86-a2db-ca54e0fb4505)
+
