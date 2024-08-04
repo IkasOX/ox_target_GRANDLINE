@@ -11,17 +11,16 @@ ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-
 - Improved entity and world collision detection.
  - Options now stack, rather than overriding.
 
-# Previews
+# ox_target redisigned inspired GrandLine RP
 
 - Normal Target
-![immage](https://i.imgur.com/3AoMvBW.png)
+![immage](https://github.com/user-attachments/assets/e12b132d-549b-4223-8f05-4a9766e75068)
 
 - Target with Sprite
-![image](https://i.imgur.com/VlJq7iv.png)
+![image](https://github.com/user-attachments/assets/aee17cf3-10c2-4716-ab8f-3c61857effab)
 
 - Target on Object
-![image](https://i.imgur.com/N79mazN.png)
+![image](https://github.com/user-attachments/assets/d91ab6f2-a68f-4fbd-828f-845065a423ab)
 
 - Target on Object Selected
-![image](https://i.imgur.com/E4gLQjl.png)
-
+![image](https://github.com/user-attachments/assets/5415a8bd-84c9-4c99-9795-394966ceef9f)
